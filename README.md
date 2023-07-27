@@ -1,5 +1,3 @@
-<!--
-**UlanKubanychbekov/UlanKubanychbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi :wave:, I'm Kubanychekov Ulan</h1>
 <h3 align="center">A passionate java developer from Kyrgyzstan</h3>
 - :mailbox: How to reach me **ulanskii03@gmail.com**
