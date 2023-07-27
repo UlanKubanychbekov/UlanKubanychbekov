@@ -1,9 +1,14 @@
 <h1 align="center">Hi :wave:, I'm Kubanychekov Ulan</h1>
 <h3 align="center">A passionate java developer from Kyrgyzstan</h3>
-- :mailbox: How to reach me **ulanskii03@gmail.com**
-- :zap: Fun fact **I am sociable, responsible, punctual.**
+<p align="center">
+  <a href="mailto:ulanskii03@gmail.com">:mailbox: How to reach me ulanskii03@gmail.com</a>
+</p>
+<p align="center">:zap: Fun fact I am sociable, responsible, punctual.</p>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 - GraphQL <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/>
 - Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="30" height="30"/>
 - PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
@@ -20,3 +25,4 @@
 - JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 - Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 - MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+</p>
